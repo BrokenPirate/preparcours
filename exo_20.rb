@@ -15,3 +15,4 @@ while n <= floor
 	puts ("#" * n)
 	n += 1
 end
+end
